@@ -23,6 +23,11 @@ class User extends Authenticatable
         'password',
     ];
 
+    public function todo()
+    {
+        return $this->belongsTo(User::class);
+    }
+
     /**
      * The attributes that should be hidden for serialization.
      *
