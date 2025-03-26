@@ -16,3 +16,14 @@ Login User Dengan Nama Lengkap :
 
 phpMyAdmin :
 ![image](https://github.com/user-attachments/assets/1cfe1064-5082-4d9b-a174-9bb9ba2de86c)
+
+Terminal :
+![image](https://github.com/user-attachments/assets/18b237f1-9b16-4445-bcf9-e7f62113d921)
+
+Browser :
+Todo : ![image](https://github.com/user-attachments/assets/70644f83-cd8b-4dd3-be46-8137f09c9517)
+User : ![image](https://github.com/user-attachments/assets/5a8911ef-a198-4dff-adf9-e26a7cac461a)
+
+Mobile :
+Todo : ![image](https://github.com/user-attachments/assets/d4b6fee1-ccc0-4e68-a7f4-c48590bc4a7d)
+User : ![image](https://github.com/user-attachments/assets/82087852-68ba-428f-89c8-8686ba9a79da)
