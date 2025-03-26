@@ -27,3 +27,15 @@ User : ![image](https://github.com/user-attachments/assets/5a8911ef-a198-4dff-ad
 Mobile :
 Todo : ![image](https://github.com/user-attachments/assets/d4b6fee1-ccc0-4e68-a7f4-c48590bc4a7d)
 User : ![image](https://github.com/user-attachments/assets/82087852-68ba-428f-89c8-8686ba9a79da)
+
+Terminal :
+![image](https://github.com/user-attachments/assets/3cc418cc-2e69-4181-93f1-f00c75af1044)
+
+DBMS User :
+![image](https://github.com/user-attachments/assets/7d4d9bce-bc38-4cfb-9976-e9ea5a9410a7)
+
+DBMS Todo :
+![image](https://github.com/user-attachments/assets/a93caaae-ff38-4783-9dc2-e81c9bf5f6a3)
+
+Browser todos collection :
+![image](https://github.com/user-attachments/assets/8d14cc6f-7bb1-45aa-b576-1765822e9eb9)
