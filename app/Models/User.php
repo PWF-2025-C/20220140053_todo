@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Models;
+use App\Models\Todo;
 
 // use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
@@ -23,9 +24,9 @@ class User extends Authenticatable
         'password',
     ];
 
-    public function todo()
+    public function todos()
     {
-        return $this->belongsTo(User::class);
+        return $this->hasMany(Todo::class);
     }
 
     /**
